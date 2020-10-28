@@ -1,0 +1,81 @@
+Here are a number of a few machine learning techniques with some use cases,
+
+Further research are  ongoing with regards to Deep learning applications; a few use cases for CNN and RNN have been indicated
+
+ 
+
+K-Means Clustering Algorithm
+
+Grouping images into different categories,
+Document classification
+Target marketing/customer segmentation
+Detecting different activity types in motion sensors and monitoring whether tracked data points change between different groups over time.
+Segmenting data by purchase history,
+classifying persons based on different interests,
+Grouping inventories by manufacturing and sales metrics,
+
+Random Forest Algorithm
+
+Finding out whether a loan applicant is low-risk or high-risk,
+predicting the failure of mechanical parts in automobile engines and predicting social media share scores and performance scores.
+The Random Forest can be used for both classification and regression analysis situations
+
+Decision Tree Algorithm
+
+Increasing customer loyalty
+Data exploration, pattern recognition, option pricing in finances and identifying disease and risk trends.
+Customer data analysis for marketing
+
+K-Nearest Neighbors Algorithm
+
+The K-Nearest Neighbors Algorithm is a lazy algorithm that takes a non-parametric approach to predictive analysis.
+KNN algorithm is used in industrial applications in tasks such as when a user wants to look for similar items in comparison to others.
+Used in handwriting detection applications and image/video recognition tasks.
+If we have unstructured data or lack of knowledge regarding the distribution data, then the K-Nearest Neighbors Algorithm will come to our rescue.
+
+Logistic Regression
+
+Identifying risk factors for diseases and planning preventive measures
+can be used in spam detection to detect whether an email is a spam or not
+Classifying words as nouns, pronouns, and verbs
+Weather forecasting applications for predicting rainfall and weather conditions
+Voting applications to find out whether voters will vote for a particular candidate or not
+Can be used to detect credit card fraud
+Used by credit card companies to develop models that decide whether a customer will default on their loan EMIs or not.
+N/B: used when dependent variable is categorical
+
+Naive Bayes Classifier Algorithm
+
+Classifying web pages, forum posts, blog snippets, and tweets without manually going through them,
+Classifies words based on the popular Bayes Theorem of probability and is used in applications related to disease prediction, document classification, spam filters, and sentiment analysis projects.
+Ranking pages, indexing relevancy scores and classifying data categorically.
+Linear Regression
+
+Sales forecasting, pricing, performance
+Risk assessment analysis in insurance domains and financial services
+Predicting house prices
+N/B: used to find the relationship between dependent variable and independent variable.
+
+ 
+
+Support Vector Machine (SVM) Algorithm
+
+Comparing the relative performance of stocks over a period of time. These comparisons are later used to make wiser investment choices.
+used in bioinformatics such as protein and cancer classification
+Face detection i.e whether an image is a face or non-face
+ 
+
+DEEP LEARNING ALGORITHMS AND USE CASES
+
+ 
+
+Convoluted Neural Network
+
+Image feature classification and video processing tasks.
+Disorder classification
+Detection of abnormalities and diseases
+Lesion or tumour detection and classification
+Recurrent Neural Networks
+
+Language processing tasks and text and speech analysis
+Financial asset forecasting
